@@ -64,6 +64,7 @@
   "dependencies": {
     "contained-periodic-values": "^1.0.0",
     "moment": "^2.9.0",
+    "moment-range": "^2.0.0",
     "skipped-periodic-values": "^1.0.0"
   },
   "to5BoilerplateOptions": {
